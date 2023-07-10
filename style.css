@@ -1,0 +1,61 @@
+body{
+
+    background-color: antiquewhite;
+}
+h1{
+
+    background-color: burlywood;
+    
+}
+h1{
+
+    border: 5px solid black;
+}
+#gray{
+
+    border: 5px solid gray;
+margin: 12px;
+}
+#blue{
+
+    border: 5px solid lightblue;
+    padding: 20px;
+    
+    
+}
+#white{
+
+    border: 20px solid whitesmoke;
+    border-left: 10px;
+    margin: 12px;
+}
+a{
+    border: 3px solid orange;
+
+}
+#cent{
+
+    text-align: center;
+}
+.no{
+    background-color: whitesmoke;
+}
+/* this is the not part of the project, this is trial */
+#hexx{
+
+    background-color: brown;
+    
+}
+
+.black{
+
+    background-color: gray;
+    padding: 10;
+}
+p{
+
+    background-color: white;
+   padding: 10;
+   color: gray;
+   
+}
